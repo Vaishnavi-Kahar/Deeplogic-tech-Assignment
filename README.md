@@ -25,5 +25,7 @@ This Node.js script creates an HTTP server that fetches the latest stories from 
 - The regular expression (`pattern`) is used to match and extract titles and links from the HTML content.
 - The extracted data is then formatted into a JSON response and sent to the client.
 
+## Ouput
+![output image](/op.png)
 
 By Vaishnavi Kahar
